@@ -36,4 +36,4 @@ print("predicted co@ for the corresponding weight and volume",predictedCO2)
 ![output](car.png)
 
 ## Result
-Thus the multivariate linear regression is implemented and predicted the output using python program.
+the program run successfully
